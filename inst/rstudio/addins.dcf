@@ -1,0 +1,4 @@
+Name: Render RNotebook (UTF-8)
+Description: Execute rmarkdown::render() with 'encoding="UTF-8"' option
+Binding: renderRNotebook
+Interactive: false
